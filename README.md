@@ -1,4 +1,4 @@
-# laughing-barnacle
+# Congisite Assignment
 
 ## For this assignment I have used React-native, React-native Progress
 
